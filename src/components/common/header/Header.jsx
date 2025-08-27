@@ -8,7 +8,7 @@ const Header = () => {
 
   return (
     <>
-      <Head />
+      
       <header>
         <div className='container paddingSmall'>
           <nav>
